@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dd316254d5fc6a79",
@@ -100,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "神秘复苏/章节/第三章 鬼蜮.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "神秘复苏/章节/第三章 鬼蜮.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -167,23 +168,13 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
-          },
-          {
-            "id": "605c902f71481df0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c736ae1f19fc5f5b",
+  "active": "8cea33e8250dad75",
   "lastOpenFiles": [
     "神秘复苏/章节/第三章 鬼蜮.md"
   ]
